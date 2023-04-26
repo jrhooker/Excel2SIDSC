@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE register
+  PUBLIC "-//Atmel//DTD DITA SIDSC Register//EN" "atmel-sidsc-register.dtd">
+<register id="CSCBCTRL">
+   <registerName>CSCBCTRL</registerName>
+   <registerNameMore>
+      <registerNameFull>CSCBCTRL</registerNameFull>
+   </registerNameMore>
+   <registerBody>
+      <registerDescription>This is a required register for all CSCB targets and must be at the same offset in all targets</registerDescription>
+      <registerProperties>
+         <registerPropset>
+            <addressOffset>0x0</addressOffset>
